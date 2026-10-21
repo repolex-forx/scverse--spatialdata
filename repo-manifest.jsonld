@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/spatialdata/commit/1d5dcbebcfff610e2db2ab807b2076ac749eae94",
       "git:hexsha": "1d5dcbebcfff610e2db2ab807b2076ac749eae94",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:10:15.297468+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/spatialdata/commit/1695b028086e2c45aa1af7c5b4584194819b7538",
